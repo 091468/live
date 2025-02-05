@@ -23,7 +23,7 @@ jobs:
       - name: Sync specific directory
         run: |
           # 清空目标目录（可选）
-          rm -rf ./
+          rm -rf ./tv
 
           # 从上游仓库提取指定目录
           git checkout upstream/main -- tv/
