@@ -1,0 +1,36 @@
+name: Sync Specific Directory from Upstream
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时同步一次
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout current repository
+        uses: actions/checkout@v3
+        with:
+          ref: main  # 你的目标分支
+
+      - name: Fetch upstream repository
+        run: |
+          git remote add upstream https://github.com/fanmingming/live.git
+          git fetch upstream main
+
+      - name: Sync specific directory
+        run: |
+          # 清空目标目录（可选）
+          rm -rf ./
+
+          # 从上游仓库提取指定目录
+          git checkout upstream/main -- tv/
+
+          # 提交更改
+          git add tv/
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git commit -m "Sync tv/ directory from upstream repository"
+          git push origin main
