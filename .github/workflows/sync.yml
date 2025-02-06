@@ -23,14 +23,14 @@ jobs:
       - name: Sync specific directory
         run: |
           # 清空目标目录（可选）
-          rm -rf ./tv
+          rm -rf ./tv/m3u
 
           # 从上游仓库提取指定目录
           git checkout upstream/main -- tv/m3u
 
           # 提交更改
-          git add tv/
+          git add tv
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git commit -m "Sync tv/ directory from upstream repository"
+          git commit -m "Sync tv directory from upstream repository"
           git push origin main
