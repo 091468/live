@@ -1,33 +1,45 @@
-name: Sync Specific Directory from Upstream
+name: Sync TV m3u Files
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小时同步一次
-  workflow_dispatch:  # 允许手动触发
+    - cron: '0 * * * *'  # 每小时整点执行一次
+  workflow_dispatch:     # 允许手动触发
 
 jobs:
   sync:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository
-        uses: actions/checkout@v3
-        with:
-          ref: main  # 你的目标分支
+    - name: Checkout repository
+      uses: actions/checkout@v4
 
-      - name: Fetch upstream repository
-        run: |
-          git remote add upstream https://github.com/fanmingming/live.git
-          git fetch upstream main
+    - name: Configure Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
 
-      - name: Sync specific directory
-        run: |
-          # 从上游仓库提取指定目录
-          git checkout upstream/main -- tv/m3u
+    - name: Clean existing files
+      run: |
+        rm -rf tv/*
+        [ -d tv ] || mkdir -p tv
 
-          # 提交更改
-          git add tv/m3u
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git commit -m "Sync tv directory from upstream repository"
-          git push origin main
+    - name: Clone source repository
+      run: |
+        git clone --depth 1 --filter=blob:none --sparse https://github.com/fanmingming/live.git source-repo
+        cd source-repo
+        git sparse-checkout set tv/m3u
+
+    - name: Copy files
+      run: |
+        cp -r source-repo/tv/m3u/* tv/
+        rm -rf source-repo
+
+    - name: Commit changes
+      run: |
+        git add -A
+        if ! git diff --cached --quiet; then
+          git commit -m "Auto Sync: Updated TV m3u files ($(date +'%Y-%m-%d %H:%M'))"
+          git push
+        else
+          echo "No changes to commit"
+        fi
