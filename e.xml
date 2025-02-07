@@ -28524,6 +28524,9 @@
 	<programme channel="咪咕足球" start="20250207092000 +0800" stop="20250207093000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250207093000 +0800" stop="20250207111000 +0800">
+		<title lang="zh">当燃CBA-24/25常规赛第17轮 广东东阳光-上海久事</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -80154,6 +80157,9 @@
 	<programme channel="newtv超级电视剧" start="20250207084100 +0800" stop="20250207092500 +0800">
 		<title lang="zh">36_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250207092500 +0800" stop="20250207101000 +0800">
+		<title lang="zh">01_千金女贼</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -80192,6 +80198,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250207083600 +0800" stop="20250207092200 +0800">
 		<title lang="zh">28_瞄准</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250207092200 +0800" stop="20250207100800 +0800">
+		<title lang="zh">29_瞄准</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -80243,6 +80252,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250207085900 +0800" stop="20250207092600 +0800">
 		<title lang="zh">04_抽象的巨人</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250207092600 +0800" stop="20250207100600 +0800">
+		<title lang="zh">第4集：当兵</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -80363,6 +80375,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250207085100 +0800" stop="20250207092400 +0800">
 		<title lang="zh">18_求婚大作战</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250207092400 +0800" stop="20250207100900 +0800">
+		<title lang="zh">19_求婚大作战</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80493,6 +80508,9 @@
 	<programme channel="newtv怡伴健康" start="20250207081800 +0800" stop="20250207091600 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250207091600 +0800" stop="20250207094000 +0800">
+		<title lang="zh">回家吃饭</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80591,6 +80609,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250207085700 +0800" stop="20250207092100 +0800">
 		<title lang="zh">美对台“指导棋”落子金门澎湖 美日大秀“铁拳”演练“夺岛”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250207092100 +0800" stop="20250207094500 +0800">
+		<title lang="zh">美国坦克“神话”破灭 波罗的海恐成“北约湖” 德军向美军机开火（20240303）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -80807,6 +80828,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250207084700 +0800" stop="20250207092800 +0800">
 		<title lang="zh">16_飞狐外传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250207092800 +0800" stop="20250207101000 +0800">
+		<title lang="zh">17_飞狐外传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
