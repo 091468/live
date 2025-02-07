@@ -33,7 +33,7 @@ http://152.69.209.202:7777/TVOD/1000000005000265013/ystenlive/index.m3u8?ace
 http://152.69.209.202:7777/TVOD/1000000005000265014/ystenlive/index.m3u8?ace
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://live.lichuan.tech/images/CCTV16.png" group-title="CCTV",CCTV16
 http://152.69.209.202:7777/TVOD/5000000008000023253/bestzb/index.m3u8?ace
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16_4K" tvg-logo="https://live.lichuan.tech/images/CCTV1.png" group-title="CCTV",CCTV16_4K
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16_4K" tvg-logo="https://live.lichuan.tech/images/CCTV16.png" group-title="CCTV",CCTV16_4K
 http://152.69.209.202:7777/TVOD/5000000008000023254/bestzb/index.m3u8?ace
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://live.lichuan.tech/images/CCTV17.png" group-title="CCTV",CCTV17
 http://152.69.209.202:7777/TVOD/1000000005000265015/ystenlive/index.m3u8?ace
@@ -71,7 +71,7 @@ http://xxx.504900.xyz:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
 http://xxx.504900.xyz:35455/itv/5000000011000031109.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://live.lichuan.tech/images/CCTV16.png" group-title="CCTV",CCTV16
 http://xxx.504900.xyz:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16_4K" tvg-logo="https://live.lichuan.tech/images/CCTV1.png" group-title="CCTV",CCTV16_4K
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16_4K" tvg-logo="https://live.lichuan.tech/images/CCTV16.png" group-title="CCTV",CCTV16_4K
 http://xxx.504900.xyz:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://live.lichuan.tech/images/CCTV17.png" group-title="CCTV",CCTV17
 http://xxx.504900.xyz:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
@@ -109,7 +109,7 @@ http://wkxgs.cn:35455/itv/1000000001000008170.m3u8?cdn=ystenlive
 http://wkxgs.cn:35455/itv/5000000011000031109.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://live.lichuan.tech/images/CCTV16.png" group-title="CCTV",CCTV16
 http://wkxgs.cn:35455/itv/1000000006000233002.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16_4K" tvg-logo="https://live.lichuan.tech/images/CCTV1.png" group-title="CCTV",CCTV16_4K
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16_4K" tvg-logo="https://live.lichuan.tech/images/CCTV16.png" group-title="CCTV",CCTV16_4K
 http://wkxgs.cn:35455/itv/5000000008000023254.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://live.lichuan.tech/images/CCTV17.png" group-title="CCTV",CCTV17
 http://wkxgs.cn:35455/itv/1000000006000268004.m3u8?cdn=ystenlive
