@@ -29,7 +29,7 @@ jobs:
           git checkout upstream/main -- tv/m3u
 
           # 提交更改
-          git add tv
+          git add tv/m3u
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git commit -m "Sync tv directory from upstream repository"
