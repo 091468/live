@@ -95,19 +95,13 @@ def creat_m3u(df):
                     logo_path = current_logo_file_path
                     break
         if not logo_path.exists():
-            # 尝试从源文件的tvg_logo_url下载
-            try:
-                response = requests.get(tvg_logo_url, headers=headers, timeout=10)
-                if response.status_code == 200:
-                    logo_path = logo_dir_path.joinpath(f'{tvg_name}{logo_extension}')
-                    logo_path.write_bytes(response.content)
-            except:
-                logo_path = logo_dir_path.joinpath("iptv.jpg")
+            logo_path = logo_dir_path.joinpath("iptv.jpg")
+
         new_tvg_logo_url = f"https://live.lichuan.tech/images/{logo_path.name}"
         # tvg_name = remark_name.get(tvg_name, tvg_name)  # 使用别名
         new_line = f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_name}" tvg-logo="{new_tvg_logo_url}" group-title="{group_title}",{tvg_name}\n{url}'
         new_line_list.append(new_line)
-    new_m3u_path = iptv_dir_path.joinpath("iptv.m3u")
+    new_m3u_path = iptv_dir_path.joinpath("tv", "iptv.m3u")
     new_m3u_path.write_text("\n".join(new_line_list), encoding='utf-8')
 
 
