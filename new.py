@@ -22,6 +22,7 @@ def process_value(value):
     if 'CCTV' in value:
         # 保留数字和字母
         value = re.sub(r'[^A-Za-z0-9]', '', value)
+        value = re.sub(r'_', '-', value)
     return value
 
 
@@ -152,7 +153,6 @@ def check_urls_in_dataframe(df, url_column='url', max_redirects=20, max_workers=
     # 使用线程池多线程处理
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         future_to_url = {executor.submit(check_url, url): url for url in df[url_column]}
-
         results = []
         for future in as_completed(future_to_url):
             original_url = future_to_url[future]
@@ -216,4 +216,3 @@ if __name__ == '__main__':
     new_df['group_title'] = new_df.apply(lambda row: get_group_name(row['title'], row['group_title']), axis=1)
     new_df = check_urls_in_dataframe(new_df)
     creat_m3u(new_df)
-    new_df.to_excel(iptv_dir_path.joinpath("iptv.xlsx"))

@@ -20,8 +20,8 @@ jobs:
 
     - name: Clean existing files
       run: |
-        rm -rf tv/*
-        [ -d tv ] || mkdir -p tv
+        #rm -rf tv/*
+        #[ -d tv ] || mkdir -p tv
 
     - name: Clone source repository
       run: |
