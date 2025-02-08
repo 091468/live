@@ -21,8 +21,8 @@ def process_value(value):
     # 处理CCTV的名称
     if 'CCTV' in value:
         # 保留数字和字母
-        value = re.sub(r'[^A-Za-z0-9]', '', value)
         value = re.sub(r'_', '-', value)
+        value = re.sub(r'[^A-Za-z0-9\-]', '', value)
     return value
 
 
@@ -67,7 +67,9 @@ def read_m3u_file(src_m3u_url):
     # 创建DataFrame
     df = pd.DataFrame(data)
     df['title'] = df['title'].apply(cc.convert)
+    df['title'] = df['title'].apply(lambda x: process_value(x))
     df['tvg_name'] = df['tvg_name'].apply(cc.convert)
+    df['tvg_name'] = df['tvg_name'].apply(lambda x: process_value(x))
     df['group_title'] = df['group_title'].apply(cc.convert)
     return df
     # df.query('tvg_name.str.contains(r"(?:CCTV\d+[\+K]?$)|(?:^[^巴]{2,3}卫视)|(?:^凤凰.+)")', inplace=True)
