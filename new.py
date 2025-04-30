@@ -223,7 +223,10 @@ if __name__ == '__main__':
     # IPV4地址的正则表达式
     for url in txt_url_list:
         print("正在从链接获取直播源", url)
-        tmp_df = read_txt_url(url)
+        try:
+            tmp_df = read_txt_url(url)
+        except:
+            continue
         df_list.append(tmp_df)
     df = pd.concat(df_list)
     # 过滤掉包含 .mp4 扩展名的 URL

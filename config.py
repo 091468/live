@@ -1,17 +1,15 @@
 ip_version_priority = "ipv6"
 m3u_url_list = [
-    #"https://live.kilvn.com/iptv.m3u",
-    #"https://study.lichuan.tech/iptv/playlist.m3u",
-    #"https://live.fanmingming.com/tv/m3u/ipv6.m3u"
+    "https://live.kilvn.com/iptv.m3u",
 ]
 txt_url_list = [
     "https://study.lichuan.tech:14143/iptv/HBIPTV.txt",
     "https://study.lichuan.tech:14143/iptv/BJYD.txt",
     "https://study.lichuan.tech:14143/iptv/14900.txt",
-    # "http://8.138.7.223/live.txt",
-    # "https://files.catbox.moe/feyax3.txt",
-    # "http://123.iptv6.icu/view.php/23a03f28fa0b4417154b7fe56ac3cb92.txt",
-    # "http://123.iptv6.icu/view.php/5e20d696c3b4315c6ca06c45f0d930a0.txt"
+    "http://8.138.7.223/live.txt",
+    "https://files.catbox.moe/feyax3.txt",
+    "http://123.iptv6.icu/view.php/23a03f28fa0b4417154b7fe56ac3cb92.txt",
+    "http://123.iptv6.icu/view.php/5e20d696c3b4315c6ca06c45f0d930a0.txt"
 ]
 
 url_blacklist = [
