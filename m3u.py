@@ -81,7 +81,7 @@ def chanel_group(group_dict, chanel_name, group_title):
 
 
 if __name__ == '__main__':
-    src_dir_path = Path("./")
+    src_dir_path = Path(__file__).parent
     channel_file_path = src_dir_path.joinpath("iptv_all.xlsx")
     channel_df = pandas.read_excel(channel_file_path, sheet_name="可访问频道", usecols=["tvg_name", "final_url", "group_title"])
     # 过滤掉包含 .mp4 扩展名的 URL
@@ -103,7 +103,8 @@ if __name__ == '__main__':
     channel_df = get_ip_area(channel_df, 'ipv4_addresses')
     #channel_df = get_ip_area(channel_df, 'ipv6_addresses')
     #channel_df.query("ipv4_addresses国家 == '中国' or ipv6_addresses国家 == '中国'", inplace=True)
-    #channel_df.query("ipv4_addresses省份 != '香港' and ipv4_addresses省份 != '台湾省'", inplace=True)
+    channel_df.query("ipv4_addresses国家 == '中国'", inplace=True)
+    channel_df.query("ipv4_addresses省份 != '香港' and ipv4_addresses省份 != '台湾省'", inplace=True)
     #channel_df.query("ipv6_addresses省份 != '香港区' and ipv6_addresses省份 != '台湾省'", inplace=True)
     # 删除频道名称中的"-"和码率
     channel_df['tvg_name'] = channel_df['tvg_name'].apply(lambda x: re.sub(r"-|\d+\.?\d?M|HD|_", "", x.strip()))
@@ -116,9 +117,9 @@ if __name__ == '__main__':
     sorted_index = index_natsorted(zip(channel_df['hostname'], channel_df['tvg_name']))
     channel_df = channel_df.iloc[sorted_index]
 
-    logo_dir_path = Path(r"E:/Desktop/IPTV/images")
-    web_logo_dir_path = Path(r"E:/Desktop/IPTV/logo")
-    iptv_dir_path = Path(r"E:/Desktop/IPTV/iptv.m3u")
+    logo_dir_path = src_dir_path.joinpath("images")
+    web_logo_dir_path = src_dir_path.joinpath("logo")
+    iptv_dir_path = src_dir_path.joinpath("iptv.m3u")
     dst_file_path = src_dir_path.joinpath("channel.xlsx")
     excel_writer = pandas.ExcelWriter(dst_file_path)
     save_df_to_sheet(excel_writer, "可访问频道", channel_df)

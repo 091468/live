@@ -41,3 +41,4 @@ jobs:
       run: |
         source venv/bin/activate
         python new.py
+        python m3u.py
