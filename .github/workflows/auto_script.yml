@@ -1,0 +1,43 @@
+name: Daily Python Script
+on:
+  schedule:
+    # 北京时间每天凌晨2点 (UTC时间18点)
+    - cron: '0 18 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  execute-script:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30  # 设置超时时间
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'  # 指定Python版本
+
+    - name: Cache Python dependencies
+      uses: actions/cache@v3
+      id: cache
+      with:
+        path: |
+          ~/.cache/pip
+          venv/
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
+    - name: Install dependencies
+      if: steps.cache.outputs.cache-hit != 'true'
+      run: |
+        python -m venv venv
+        source venv/bin/activate
+        pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Execute Python script
+      run: |
+        source venv/bin/activate
+        python new.py

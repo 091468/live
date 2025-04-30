@@ -1,0 +1,2 @@
+pd_to_sheet == 2.0.0
+OpenCC == 1.1.9

@@ -5,7 +5,7 @@ import pandas
 import pandas as pd
 import requests
 from pandas import ExcelWriter
-from pathlib2 import Path
+from pathlib import Path
 from pd_to_sheet.ip_area import get_ip_area
 from pd_to_sheet.to_excel import save_df_to_sheet
 from pd_to_sheet.ip2Region import Ip2Region
@@ -81,7 +81,7 @@ def chanel_group(group_dict, chanel_name, group_title):
 
 
 if __name__ == '__main__':
-    src_dir_path = Path("E:/Desktop/IPTV")
+    src_dir_path = Path("./")
     channel_file_path = src_dir_path.joinpath("iptv_all.xlsx")
     channel_df = pandas.read_excel(channel_file_path, sheet_name="可访问频道", usecols=["tvg_name", "final_url", "group_title"])
     # 过滤掉包含 .mp4 扩展名的 URL
