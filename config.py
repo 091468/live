@@ -1,10 +1,10 @@
 ip_version_priority = "ipv6"
 m3u_url_list = [
-    #"https://live.kilvn.com/iptv.m3u",
+    # "https://live.kilvn.com/iptv.m3u",
 ]
 txt_url_list = [
     "https://live.lichuan.tech/iptv/HBIPTV.txt",
-    "https://live.lichuan.tech/iptv/14900.txt",
+    # "https://live.lichuan.tech/iptv/14900.txt",
     # "http://8.138.7.223/live.txt",
     # "https://files.catbox.moe/feyax3.txt",
     # "http://123.iptv6.icu/view.php/23a03f28fa0b4417154b7fe56ac3cb92.txt",

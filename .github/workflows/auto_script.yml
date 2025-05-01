@@ -50,17 +50,15 @@ jobs:
         # 执行脚本（确保路径正确）
         python new.py
         python m3u.py
-
         # 检查文件是否生成
         echo "执行后文件列表:"
         ls -al
-        
-        cd "${{ github.workspace }}"
+    - name: Commit and push generated files
+      run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        git add iptv.m3u  # 替换为你的文件名
-        git add iptv_all.xlsx  # 替换为你的文件名
+        git add iptv.m3u iptv_all.xlsx
         git commit -m "Auto-generated file by GitHub Actions"
-        git push
+        git push origin HEAD:master  # 明确推送到 master 分支
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 自动使用工作流权限
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
