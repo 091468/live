@@ -107,7 +107,7 @@ if __name__ == '__main__':
     channel_df.query("ipv4_addresses省份 != '香港' and ipv4_addresses省份 != '台湾省'", inplace=True)
     #channel_df.query("ipv6_addresses省份 != '香港区' and ipv6_addresses省份 != '台湾省'", inplace=True)
     # 删除频道名称中的"-"和码率
-    channel_df['tvg_name'] = channel_df['tvg_name'].apply(lambda x: re.sub(r"-|\d+\.?\d?M|HD|_", "", x.strip()))
+    channel_df['tvg_name'] = channel_df['tvg_name'].apply(lambda x: re.sub(r"-|\d+\.?\d?M|HD|_|—", "", x.strip()))
     channel_df['tvg_name'] = channel_df['tvg_name'].apply(lambda x: re.sub(r"＋", "+", x.strip()))
     channel_df['tvg_name'] = channel_df['tvg_name'].apply(lambda x: re.sub(r"(?<=\d)[^\d+Kk]+", "", x.strip()))
     channel_df['tvg_name'] = channel_df['tvg_name'].apply(lambda x: re.sub(r"4K$", "-4K", x.strip()))
