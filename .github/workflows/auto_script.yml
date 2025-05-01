@@ -54,10 +54,13 @@ jobs:
         # 检查文件是否生成
         echo "执行后文件列表:"
         ls -al
-    - name: Upload generated files
-      uses: actions/upload-artifact@v4
-      with:
-        name: output-files
-        path: |
-          ${{ github.workspace }}/iptv.m3u
-          ${{ github.workspace }}/iptv_all.xlsx
+        
+        cd "${{ github.workspace }}"
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add iptv.m3u  # 替换为你的文件名
+        git add iptv_all.xlsx  # 替换为你的文件名
+        git commit -m "Auto-generated file by GitHub Actions"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # 自动使用工作流权限
