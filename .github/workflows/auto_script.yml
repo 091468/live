@@ -58,4 +58,6 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: output-files
-        path: ${{ github.workspace }}/
+        path: |
+          ${{ github.workspace }}/iptv.m3u
+          ${{ github.workspace }}/iptv_all.xlsx
