@@ -55,7 +55,7 @@ jobs:
         echo "执行后文件列表:"
         ls -al
     - name: Upload generated files
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: output-files
         path: ${{ github.workspace }}/
