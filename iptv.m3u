@@ -63,6 +63,8 @@ http://183.223.157.123:85/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.223.157.33:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://lichuan.tech/iptv/logo/7e30e8167039127910385b65b8b56f85.png" group-title="CCTV_四川省南充市移动",CCTV17
 http://183.223.157.33:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://lichuan.tech/iptv/logo/3d8e093d50b1a060c11758de78cca54d.png" group-title="CCTV_四川省成都市电信",CCTV1
+http://218.89.240.144:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://lichuan.tech/iptv/logo/7f0f7630ebd9f29f34452e64c037ca7c.png" group-title="CCTV_四川省成都市电信",CCTV2
 http://218.89.240.144:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://lichuan.tech/iptv/logo/eef05976d14b742fc22fe17affad1f60.png" group-title="CCTV_四川省成都市电信",CCTV3
@@ -128,6 +130,8 @@ http://60.174.40.117:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV体育赛事" tvg-logo="https://lichuan.tech/iptv/logo/b00063f632a1aae946dfaa1ea106a476.png" group-title="CCTV_安徽省池州市电信",CCTV体育赛事
 http://60.174.40.117:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://lichuan.tech/iptv/logo/3d8e093d50b1a060c11758de78cca54d.png" group-title="CCTV_安徽省阜阳市联通",CCTV1
+http://112.122.32.28:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://lichuan.tech/iptv/logo/3d8e093d50b1a060c11758de78cca54d.png" group-title="CCTV_安徽省阜阳市联通",CCTV1
 http://112.122.32.141:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://lichuan.tech/iptv/logo/3d8e093d50b1a060c11758de78cca54d.png" group-title="CCTV_安徽省阜阳市联通",CCTV1
 http://112.122.32.229:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -155,6 +159,8 @@ http://112.123.210.49:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://lichuan.tech/iptv/logo/3d8e093d50b1a060c11758de78cca54d.png" group-title="CCTV_安徽省阜阳市联通",CCTV1
 http://112.123.210.140:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://lichuan.tech/iptv/logo/7f0f7630ebd9f29f34452e64c037ca7c.png" group-title="CCTV_安徽省阜阳市联通",CCTV2
+http://112.122.32.28:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://lichuan.tech/iptv/logo/7f0f7630ebd9f29f34452e64c037ca7c.png" group-title="CCTV_安徽省阜阳市联通",CCTV2
 http://112.122.32.141:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://lichuan.tech/iptv/logo/7f0f7630ebd9f29f34452e64c037ca7c.png" group-title="CCTV_安徽省阜阳市联通",CCTV2
@@ -184,6 +190,8 @@ http://112.123.210.115:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://lichuan.tech/iptv/logo/7f0f7630ebd9f29f34452e64c037ca7c.png" group-title="CCTV_安徽省阜阳市联通",CCTV2
 http://112.123.210.140:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://lichuan.tech/iptv/logo/eef05976d14b742fc22fe17affad1f60.png" group-title="CCTV_安徽省阜阳市联通",CCTV3
+http://112.122.32.28:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://lichuan.tech/iptv/logo/eef05976d14b742fc22fe17affad1f60.png" group-title="CCTV_安徽省阜阳市联通",CCTV3
 http://112.122.32.141:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://lichuan.tech/iptv/logo/eef05976d14b742fc22fe17affad1f60.png" group-title="CCTV_安徽省阜阳市联通",CCTV3
 http://112.122.32.229:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -211,6 +219,8 @@ http://112.123.210.49:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://lichuan.tech/iptv/logo/eef05976d14b742fc22fe17affad1f60.png" group-title="CCTV_安徽省阜阳市联通",CCTV3
 http://112.123.210.140:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://lichuan.tech/iptv/logo/c05a594b68692bbb5d09e966469540c8.png" group-title="CCTV_安徽省阜阳市联通",CCTV4
+http://112.122.32.28:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://lichuan.tech/iptv/logo/c05a594b68692bbb5d09e966469540c8.png" group-title="CCTV_安徽省阜阳市联通",CCTV4
 http://112.122.32.141:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://lichuan.tech/iptv/logo/c05a594b68692bbb5d09e966469540c8.png" group-title="CCTV_安徽省阜阳市联通",CCTV4
@@ -240,6 +250,8 @@ http://112.123.210.115:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://lichuan.tech/iptv/logo/c05a594b68692bbb5d09e966469540c8.png" group-title="CCTV_安徽省阜阳市联通",CCTV4
 http://112.123.210.140:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://lichuan.tech/iptv/logo/dcef7eaddaa95231a534664b5294ef17.png" group-title="CCTV_安徽省阜阳市联通",CCTV5
+http://112.122.32.28:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://lichuan.tech/iptv/logo/dcef7eaddaa95231a534664b5294ef17.png" group-title="CCTV_安徽省阜阳市联通",CCTV5
 http://112.122.32.141:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://lichuan.tech/iptv/logo/dcef7eaddaa95231a534664b5294ef17.png" group-title="CCTV_安徽省阜阳市联通",CCTV5
 http://112.122.32.229:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -267,6 +279,8 @@ http://112.123.210.49:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://lichuan.tech/iptv/logo/dcef7eaddaa95231a534664b5294ef17.png" group-title="CCTV_安徽省阜阳市联通",CCTV5
 http://112.123.210.140:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://lichuan.tech/iptv/logo/b642fd0c10e536bb69482f4a6787e0ea.png" group-title="CCTV_安徽省阜阳市联通",CCTV6
+http://112.122.32.28:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://lichuan.tech/iptv/logo/b642fd0c10e536bb69482f4a6787e0ea.png" group-title="CCTV_安徽省阜阳市联通",CCTV6
 http://112.122.32.141:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://lichuan.tech/iptv/logo/b642fd0c10e536bb69482f4a6787e0ea.png" group-title="CCTV_安徽省阜阳市联通",CCTV6
@@ -296,6 +310,8 @@ http://112.123.210.115:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://lichuan.tech/iptv/logo/b642fd0c10e536bb69482f4a6787e0ea.png" group-title="CCTV_安徽省阜阳市联通",CCTV6
 http://112.123.210.140:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://lichuan.tech/iptv/logo/42206af12ae323cef243156bfe9bce04.png" group-title="CCTV_安徽省阜阳市联通",CCTV7
+http://112.122.32.28:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://lichuan.tech/iptv/logo/42206af12ae323cef243156bfe9bce04.png" group-title="CCTV_安徽省阜阳市联通",CCTV7
 http://112.122.32.141:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://lichuan.tech/iptv/logo/42206af12ae323cef243156bfe9bce04.png" group-title="CCTV_安徽省阜阳市联通",CCTV7
 http://112.122.32.229:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -323,6 +339,8 @@ http://112.123.210.49:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://lichuan.tech/iptv/logo/42206af12ae323cef243156bfe9bce04.png" group-title="CCTV_安徽省阜阳市联通",CCTV7
 http://112.123.210.140:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://lichuan.tech/iptv/logo/9ff989f42195a9f0fc85cae6b74d28df.png" group-title="CCTV_安徽省阜阳市联通",CCTV8
+http://112.122.32.28:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://lichuan.tech/iptv/logo/9ff989f42195a9f0fc85cae6b74d28df.png" group-title="CCTV_安徽省阜阳市联通",CCTV8
 http://112.122.32.141:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://lichuan.tech/iptv/logo/9ff989f42195a9f0fc85cae6b74d28df.png" group-title="CCTV_安徽省阜阳市联通",CCTV8
@@ -352,6 +370,8 @@ http://112.123.210.115:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://lichuan.tech/iptv/logo/9ff989f42195a9f0fc85cae6b74d28df.png" group-title="CCTV_安徽省阜阳市联通",CCTV8
 http://112.123.210.140:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://lichuan.tech/iptv/logo/bf747874f5d0b0612a7537dc35f4a02d.png" group-title="CCTV_安徽省阜阳市联通",CCTV9
+http://112.122.32.28:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://lichuan.tech/iptv/logo/bf747874f5d0b0612a7537dc35f4a02d.png" group-title="CCTV_安徽省阜阳市联通",CCTV9
 http://112.122.32.141:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://lichuan.tech/iptv/logo/bf747874f5d0b0612a7537dc35f4a02d.png" group-title="CCTV_安徽省阜阳市联通",CCTV9
 http://112.122.32.229:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive=0&authid=0
@@ -379,6 +399,8 @@ http://112.123.210.49:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://lichuan.tech/iptv/logo/bf747874f5d0b0612a7537dc35f4a02d.png" group-title="CCTV_安徽省阜阳市联通",CCTV9
 http://112.123.210.140:85/tsfile/live/0011_3.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://lichuan.tech/iptv/logo/2538c1b412bd1e0c68ff474bf68ecc67.png" group-title="CCTV_安徽省阜阳市联通",CCTV10
+http://112.122.32.28:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://lichuan.tech/iptv/logo/2538c1b412bd1e0c68ff474bf68ecc67.png" group-title="CCTV_安徽省阜阳市联通",CCTV10
 http://112.122.32.141:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://lichuan.tech/iptv/logo/2538c1b412bd1e0c68ff474bf68ecc67.png" group-title="CCTV_安徽省阜阳市联通",CCTV10
@@ -408,6 +430,8 @@ http://112.123.210.115:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://lichuan.tech/iptv/logo/2538c1b412bd1e0c68ff474bf68ecc67.png" group-title="CCTV_安徽省阜阳市联通",CCTV10
 http://112.123.210.140:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://lichuan.tech/iptv/logo/19133fadde9bf7161e568342d2482644.png" group-title="CCTV_安徽省阜阳市联通",CCTV11
+http://112.122.32.28:85/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://lichuan.tech/iptv/logo/19133fadde9bf7161e568342d2482644.png" group-title="CCTV_安徽省阜阳市联通",CCTV11
 http://112.122.32.141:85/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://lichuan.tech/iptv/logo/19133fadde9bf7161e568342d2482644.png" group-title="CCTV_安徽省阜阳市联通",CCTV11
 http://112.122.32.229:85/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -435,6 +459,8 @@ http://112.123.210.49:85/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://lichuan.tech/iptv/logo/19133fadde9bf7161e568342d2482644.png" group-title="CCTV_安徽省阜阳市联通",CCTV11
 http://112.123.210.140:85/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://lichuan.tech/iptv/logo/859d4106cefb58b5f5a9feaf392b207b.png" group-title="CCTV_安徽省阜阳市联通",CCTV12
+http://112.122.32.28:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://lichuan.tech/iptv/logo/859d4106cefb58b5f5a9feaf392b207b.png" group-title="CCTV_安徽省阜阳市联通",CCTV12
 http://112.122.32.141:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://lichuan.tech/iptv/logo/859d4106cefb58b5f5a9feaf392b207b.png" group-title="CCTV_安徽省阜阳市联通",CCTV12
@@ -464,6 +490,8 @@ http://112.123.210.115:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://lichuan.tech/iptv/logo/859d4106cefb58b5f5a9feaf392b207b.png" group-title="CCTV_安徽省阜阳市联通",CCTV12
 http://112.123.210.140:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://lichuan.tech/iptv/logo/0846adebefbf618f3d7196645a6f83b0.png" group-title="CCTV_安徽省阜阳市联通",CCTV13
+http://112.122.32.28:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://lichuan.tech/iptv/logo/0846adebefbf618f3d7196645a6f83b0.png" group-title="CCTV_安徽省阜阳市联通",CCTV13
 http://112.122.32.141:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://lichuan.tech/iptv/logo/0846adebefbf618f3d7196645a6f83b0.png" group-title="CCTV_安徽省阜阳市联通",CCTV13
 http://112.122.32.229:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -491,6 +519,8 @@ http://112.123.210.49:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://lichuan.tech/iptv/logo/0846adebefbf618f3d7196645a6f83b0.png" group-title="CCTV_安徽省阜阳市联通",CCTV13
 http://112.123.210.140:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://lichuan.tech/iptv/logo/afd5aeeff09615322773d2539c326b1b.png" group-title="CCTV_安徽省阜阳市联通",CCTV14
+http://112.122.32.28:85/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://lichuan.tech/iptv/logo/afd5aeeff09615322773d2539c326b1b.png" group-title="CCTV_安徽省阜阳市联通",CCTV14
 http://112.122.32.141:85/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://lichuan.tech/iptv/logo/afd5aeeff09615322773d2539c326b1b.png" group-title="CCTV_安徽省阜阳市联通",CCTV14
@@ -520,6 +550,8 @@ http://112.123.210.115:85/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://lichuan.tech/iptv/logo/afd5aeeff09615322773d2539c326b1b.png" group-title="CCTV_安徽省阜阳市联通",CCTV14
 http://112.123.210.140:85/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://lichuan.tech/iptv/logo/2f1e65b31fdecc85032f08d23eb0cecc.png" group-title="CCTV_安徽省阜阳市联通",CCTV15
+http://112.122.32.28:85/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://lichuan.tech/iptv/logo/2f1e65b31fdecc85032f08d23eb0cecc.png" group-title="CCTV_安徽省阜阳市联通",CCTV15
 http://112.122.32.141:85/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://lichuan.tech/iptv/logo/2f1e65b31fdecc85032f08d23eb0cecc.png" group-title="CCTV_安徽省阜阳市联通",CCTV15
 http://112.122.32.229:85/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -547,6 +579,8 @@ http://112.123.210.49:85/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://lichuan.tech/iptv/logo/2f1e65b31fdecc85032f08d23eb0cecc.png" group-title="CCTV_安徽省阜阳市联通",CCTV15
 http://112.123.210.140:85/tsfile/live/0015_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://lichuan.tech/iptv/logo/7e30e8167039127910385b65b8b56f85.png" group-title="CCTV_安徽省阜阳市联通",CCTV17
+http://112.122.32.28:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://lichuan.tech/iptv/logo/7e30e8167039127910385b65b8b56f85.png" group-title="CCTV_安徽省阜阳市联通",CCTV17
 http://112.122.32.141:85/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://lichuan.tech/iptv/logo/7e30e8167039127910385b65b8b56f85.png" group-title="CCTV_安徽省阜阳市联通",CCTV17
@@ -794,6 +828,8 @@ http://60.174.40.117:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="科教" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省池州市电信",科教
 http://60.174.40.117:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://lichuan.tech/iptv/logo/1c65db71102d795af0e4227f2c5b880e.png" group-title="其他频道_安徽省阜阳市联通",中国天气
+http://112.122.32.28:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://lichuan.tech/iptv/logo/1c65db71102d795af0e4227f2c5b880e.png" group-title="其他频道_安徽省阜阳市联通",中国天气
 http://112.122.32.141:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://lichuan.tech/iptv/logo/1c65db71102d795af0e4227f2c5b880e.png" group-title="其他频道_安徽省阜阳市联通",中国天气
 http://112.122.32.229:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -821,6 +857,8 @@ http://112.123.210.49:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国天气" tvg-logo="https://lichuan.tech/iptv/logo/1c65db71102d795af0e4227f2c5b880e.png" group-title="其他频道_安徽省阜阳市联通",中国天气
 http://112.123.210.140:85/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="亳州综合" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",亳州综合
+http://112.122.32.28:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="亳州综合" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",亳州综合
 http://112.122.32.141:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="亳州综合" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",亳州综合
@@ -850,6 +888,8 @@ http://112.123.210.115:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="亳州综合" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",亳州综合
 http://112.123.210.140:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="https://lichuan.tech/iptv/logo/9d299b62d62a9389c0df11d51a294e48.png" group-title="其他频道_安徽省阜阳市联通",优漫卡通
+http://112.122.32.28:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="https://lichuan.tech/iptv/logo/9d299b62d62a9389c0df11d51a294e48.png" group-title="其他频道_安徽省阜阳市联通",优漫卡通
 http://112.122.32.141:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="https://lichuan.tech/iptv/logo/9d299b62d62a9389c0df11d51a294e48.png" group-title="其他频道_安徽省阜阳市联通",优漫卡通
 http://112.122.32.229:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -877,6 +917,8 @@ http://112.123.210.49:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="https://lichuan.tech/iptv/logo/9d299b62d62a9389c0df11d51a294e48.png" group-title="其他频道_安徽省阜阳市联通",优漫卡通
 http://112.123.210.140:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="农民" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",农民
+http://112.122.32.28:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="农民" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",农民
 http://112.122.32.141:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="农民" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",农民
@@ -906,6 +948,8 @@ http://112.123.210.115:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="农民" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",农民
 http://112.123.210.140:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="https://lichuan.tech/iptv/logo/6c1a0d489a583845d6cfd9c9e20c2f19.png" group-title="其他频道_安徽省阜阳市联通",卡酷少儿
+http://112.122.32.28:85/tsfile/live/1057_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="https://lichuan.tech/iptv/logo/6c1a0d489a583845d6cfd9c9e20c2f19.png" group-title="其他频道_安徽省阜阳市联通",卡酷少儿
 http://112.122.32.141:85/tsfile/live/1057_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="https://lichuan.tech/iptv/logo/6c1a0d489a583845d6cfd9c9e20c2f19.png" group-title="其他频道_安徽省阜阳市联通",卡酷少儿
 http://112.122.32.229:85/tsfile/live/1057_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -933,6 +977,8 @@ http://112.123.210.49:85/tsfile/live/1057_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/1057_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="https://lichuan.tech/iptv/logo/6c1a0d489a583845d6cfd9c9e20c2f19.png" group-title="其他频道_安徽省阜阳市联通",卡酷少儿
 http://112.123.210.140:85/tsfile/live/1057_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安庆新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安庆新闻
+http://112.122.32.28:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安庆新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安庆新闻
 http://112.122.32.141:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安庆新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安庆新闻
@@ -962,6 +1008,8 @@ http://112.123.210.115:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安庆新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安庆新闻
 http://112.123.210.140:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽公共" tvg-logo="https://lichuan.tech/iptv/logo/e3b47c0caecb616dbef78d29f09db6f4.png" group-title="其他频道_安徽省阜阳市联通",安徽公共
+http://112.122.32.28:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽公共" tvg-logo="https://lichuan.tech/iptv/logo/e3b47c0caecb616dbef78d29f09db6f4.png" group-title="其他频道_安徽省阜阳市联通",安徽公共
 http://112.122.32.141:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽公共" tvg-logo="https://lichuan.tech/iptv/logo/e3b47c0caecb616dbef78d29f09db6f4.png" group-title="其他频道_安徽省阜阳市联通",安徽公共
 http://112.122.32.229:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -989,6 +1037,8 @@ http://112.123.210.49:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽公共" tvg-logo="https://lichuan.tech/iptv/logo/e3b47c0caecb616dbef78d29f09db6f4.png" group-title="其他频道_安徽省阜阳市联通",安徽公共
 http://112.123.210.140:85/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽农业" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安徽农业
+http://112.122.32.28:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽农业" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安徽农业
 http://112.122.32.141:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽农业" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安徽农业
@@ -1018,6 +1068,8 @@ http://112.123.210.115:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽农业" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安徽农业
 http://112.123.210.140:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽影视" tvg-logo="https://lichuan.tech/iptv/logo/4e9e5b4005402d1f66878f178535fb91.png" group-title="其他频道_安徽省阜阳市联通",安徽影视
+http://112.122.32.28:85/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽影视" tvg-logo="https://lichuan.tech/iptv/logo/4e9e5b4005402d1f66878f178535fb91.png" group-title="其他频道_安徽省阜阳市联通",安徽影视
 http://112.122.32.141:85/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽影视" tvg-logo="https://lichuan.tech/iptv/logo/4e9e5b4005402d1f66878f178535fb91.png" group-title="其他频道_安徽省阜阳市联通",安徽影视
 http://112.122.32.229:85/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1045,6 +1097,8 @@ http://112.123.210.49:85/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽影视" tvg-logo="https://lichuan.tech/iptv/logo/4e9e5b4005402d1f66878f178535fb91.png" group-title="其他频道_安徽省阜阳市联通",安徽影视
 http://112.123.210.140:85/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" tvg-logo="https://lichuan.tech/iptv/logo/6b547485499585d22fef976dc47ebf35.png" group-title="其他频道_安徽省阜阳市联通",安徽经济生活
+http://112.122.32.28:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" tvg-logo="https://lichuan.tech/iptv/logo/6b547485499585d22fef976dc47ebf35.png" group-title="其他频道_安徽省阜阳市联通",安徽经济生活
 http://112.122.32.141:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" tvg-logo="https://lichuan.tech/iptv/logo/6b547485499585d22fef976dc47ebf35.png" group-title="其他频道_安徽省阜阳市联通",安徽经济生活
@@ -1074,6 +1128,8 @@ http://112.123.210.115:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽经济生活" tvg-logo="https://lichuan.tech/iptv/logo/6b547485499585d22fef976dc47ebf35.png" group-title="其他频道_安徽省阜阳市联通",安徽经济生活
 http://112.123.210.140:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽综艺" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安徽综艺
+http://112.122.32.28:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽综艺" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安徽综艺
 http://112.122.32.141:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽综艺" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安徽综艺
 http://112.122.32.229:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1101,6 +1157,8 @@ http://112.123.210.49:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽综艺" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",安徽综艺
 http://112.123.210.140:85/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="宿州新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",宿州新闻
+http://112.122.32.28:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="宿州新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",宿州新闻
 http://112.122.32.141:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="宿州新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",宿州新闻
@@ -1130,6 +1188,8 @@ http://112.123.210.115:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="宿州新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",宿州新闻
 http://112.123.210.140:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="幸运影视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",幸运影视
+http://112.122.32.28:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="幸运影视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",幸运影视
 http://112.122.32.141:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="幸运影视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",幸运影视
 http://112.122.32.229:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1157,6 +1217,8 @@ http://112.123.210.49:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="幸运影视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",幸运影视
 http://112.123.210.140:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",怀旧剧场
+http://112.122.32.28:85/tsfile/live/1149_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",怀旧剧场
 http://112.122.32.141:85/tsfile/live/1149_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",怀旧剧场
@@ -1186,6 +1248,8 @@ http://112.123.210.115:85/tsfile/live/1149_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="怀旧剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",怀旧剧场
 http://112.123.210.140:85/tsfile/live/1149_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="星影" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",星影
+http://112.122.32.28:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="星影" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",星影
 http://112.122.32.141:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="星影" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",星影
 http://112.122.32.229:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1213,6 +1277,8 @@ http://112.123.210.49:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="星影" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",星影
 http://112.123.210.140:85/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="梨园" tvg-logo="https://lichuan.tech/iptv/logo/331ded2b412af1b36544b16db211366d.png" group-title="其他频道_安徽省阜阳市联通",梨园
+http://112.122.32.28:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="梨园" tvg-logo="https://lichuan.tech/iptv/logo/331ded2b412af1b36544b16db211366d.png" group-title="其他频道_安徽省阜阳市联通",梨园
 http://112.122.32.141:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="梨园" tvg-logo="https://lichuan.tech/iptv/logo/331ded2b412af1b36544b16db211366d.png" group-title="其他频道_安徽省阜阳市联通",梨园
@@ -1242,6 +1308,8 @@ http://112.123.210.115:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="梨园" tvg-logo="https://lichuan.tech/iptv/logo/331ded2b412af1b36544b16db211366d.png" group-title="其他频道_安徽省阜阳市联通",梨园
 http://112.123.210.140:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",法治天地
+http://112.122.32.28:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",法治天地
 http://112.122.32.141:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",法治天地
 http://112.122.32.229:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1269,6 +1337,8 @@ http://112.123.210.49:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="法治天地" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",法治天地
 http://112.123.210.140:85/tsfile/live/1047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="淮南一套" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",淮南一套
+http://112.122.32.28:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="淮南一套" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",淮南一套
 http://112.122.32.141:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="淮南一套" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",淮南一套
@@ -1298,6 +1368,8 @@ http://112.123.210.115:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="淮南一套" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",淮南一套
 http://112.123.210.140:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖南娱乐" tvg-logo="https://lichuan.tech/iptv/logo/d462340679674da1cf1e0eb80017ad0a.png" group-title="其他频道_安徽省阜阳市联通",湖南娱乐
+http://112.122.32.28:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖南娱乐" tvg-logo="https://lichuan.tech/iptv/logo/d462340679674da1cf1e0eb80017ad0a.png" group-title="其他频道_安徽省阜阳市联通",湖南娱乐
 http://112.122.32.141:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖南娱乐" tvg-logo="https://lichuan.tech/iptv/logo/d462340679674da1cf1e0eb80017ad0a.png" group-title="其他频道_安徽省阜阳市联通",湖南娱乐
 http://112.122.32.229:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1325,6 +1397,8 @@ http://112.123.210.49:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖南娱乐" tvg-logo="https://lichuan.tech/iptv/logo/d462340679674da1cf1e0eb80017ad0a.png" group-title="其他频道_安徽省阜阳市联通",湖南娱乐
 http://112.123.210.140:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖南经视" tvg-logo="https://lichuan.tech/iptv/logo/67fa4d0478b519540cee23f2bd54e069.png" group-title="其他频道_安徽省阜阳市联通",湖南经视
+http://112.122.32.28:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖南经视" tvg-logo="https://lichuan.tech/iptv/logo/67fa4d0478b519540cee23f2bd54e069.png" group-title="其他频道_安徽省阜阳市联通",湖南经视
 http://112.122.32.141:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖南经视" tvg-logo="https://lichuan.tech/iptv/logo/67fa4d0478b519540cee23f2bd54e069.png" group-title="其他频道_安徽省阜阳市联通",湖南经视
@@ -1354,6 +1428,8 @@ http://112.123.210.115:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖南经视" tvg-logo="https://lichuan.tech/iptv/logo/67fa4d0478b519540cee23f2bd54e069.png" group-title="其他频道_安徽省阜阳市联通",湖南经视
 http://112.123.210.140:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="热播剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",热播剧场
+http://112.122.32.28:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="热播剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",热播剧场
 http://112.122.32.141:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="热播剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",热播剧场
 http://112.122.32.229:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1382,9 +1458,9 @@ http://112.123.210.115:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="热播剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",热播剧场
 http://112.123.210.140:85/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="环球影视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",环球影视
-http://112.122.32.141:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://112.122.32.28:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="环球影视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",环球影视
-http://112.122.32.151:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://112.122.32.141:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="环球影视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",环球影视
 http://112.122.32.229:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="环球影视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",环球影视
@@ -1411,6 +1487,8 @@ http://112.123.210.49:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="环球影视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",环球影视
 http://112.123.210.140:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",第一剧场
+http://112.122.32.28:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",第一剧场
 http://112.122.32.141:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",第一剧场
@@ -1440,6 +1518,8 @@ http://112.123.210.115:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="第一剧场" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",第一剧场
 http://112.123.210.140:85/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="经典电影" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",经典电影
+http://112.122.32.28:85/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="经典电影" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",经典电影
 http://112.122.32.141:85/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="经典电影" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",经典电影
 http://112.122.32.229:85/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1467,6 +1547,8 @@ http://112.123.210.49:85/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="经典电影" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",经典电影
 http://112.123.210.140:85/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="财富天下" tvg-logo="https://lichuan.tech/iptv/logo/ae50edba97bb529b7d297d703c5cf0d4.png" group-title="其他频道_安徽省阜阳市联通",财富天下
+http://112.122.32.28:85/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="财富天下" tvg-logo="https://lichuan.tech/iptv/logo/ae50edba97bb529b7d297d703c5cf0d4.png" group-title="其他频道_安徽省阜阳市联通",财富天下
 http://112.122.32.141:85/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="财富天下" tvg-logo="https://lichuan.tech/iptv/logo/ae50edba97bb529b7d297d703c5cf0d4.png" group-title="其他频道_安徽省阜阳市联通",财富天下
@@ -1496,6 +1578,8 @@ http://112.123.210.115:85/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="财富天下" tvg-logo="https://lichuan.tech/iptv/logo/ae50edba97bb529b7d297d703c5cf0d4.png" group-title="其他频道_安徽省阜阳市联通",财富天下
 http://112.123.210.140:85/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://lichuan.tech/iptv/logo/5833ab691e9d2b329d23531d39970614.png" group-title="其他频道_安徽省阜阳市联通",金鹰卡通
+http://112.122.32.28:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://lichuan.tech/iptv/logo/5833ab691e9d2b329d23531d39970614.png" group-title="其他频道_安徽省阜阳市联通",金鹰卡通
 http://112.122.32.141:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://lichuan.tech/iptv/logo/5833ab691e9d2b329d23531d39970614.png" group-title="其他频道_安徽省阜阳市联通",金鹰卡通
 http://112.122.32.229:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1523,6 +1607,8 @@ http://112.123.210.49:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://lichuan.tech/iptv/logo/5833ab691e9d2b329d23531d39970614.png" group-title="其他频道_安徽省阜阳市联通",金鹰卡通
 http://112.123.210.140:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="阜南新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜南新闻
+http://112.122.32.28:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜南新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜南新闻
 http://112.122.32.141:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜南新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜南新闻
@@ -1552,6 +1638,8 @@ http://112.123.210.115:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜南新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜南新闻
 http://112.123.210.140:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳公共" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳公共
+http://112.122.32.28:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="阜阳公共" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳公共
 http://112.122.32.141:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳公共" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳公共
 http://112.122.32.229:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1562,7 +1650,7 @@ http://112.122.33.119:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳公共" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳公共
 http://112.122.33.149:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳公共" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳公共
-http://112.122.33.162:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+http://112.122.33.152:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳公共" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳公共
 http://112.123.208.163:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳公共" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳公共
@@ -1579,6 +1667,8 @@ http://112.123.210.49:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳公共" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳公共
 http://112.123.210.140:85/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="阜阳新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳新闻
+http://112.122.32.28:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳新闻
 http://112.122.32.141:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳新闻
@@ -1608,6 +1698,8 @@ http://112.123.210.115:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",阜阳新闻
 http://112.123.210.140:85/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="https://lichuan.tech/iptv/logo/31be045f47c992b2461429f33977e121.png" group-title="其他频道_安徽省阜阳市联通",风云剧场
+http://112.122.32.28:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="https://lichuan.tech/iptv/logo/31be045f47c992b2461429f33977e121.png" group-title="其他频道_安徽省阜阳市联通",风云剧场
 http://112.122.32.141:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="https://lichuan.tech/iptv/logo/31be045f47c992b2461429f33977e121.png" group-title="其他频道_安徽省阜阳市联通",风云剧场
 http://112.122.32.229:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1636,6 +1728,8 @@ http://112.123.210.115:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="风云剧场" tvg-logo="https://lichuan.tech/iptv/logo/31be045f47c992b2461429f33977e121.png" group-title="其他频道_安徽省阜阳市联通",风云剧场
 http://112.123.210.140:85/tsfile/live/1150_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",风云音乐
+http://112.122.32.28:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",风云音乐
 http://112.122.32.141:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",风云音乐
 http://112.122.32.229:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1663,8 +1757,6 @@ http://112.123.210.49:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="风云音乐" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省阜阳市联通",风云音乐
 http://112.123.210.140:85/tsfile/live/1148_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="安徽公共" tvg-logo="https://lichuan.tech/iptv/logo/e3b47c0caecb616dbef78d29f09db6f4.png" group-title="其他频道_安徽省马鞍山市电信",安徽公共
-http://223.241.247.214:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="马鞍山公共" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省马鞍山市电信",马鞍山公共
 http://223.241.247.214:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="马鞍山新闻" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_安徽省马鞍山市电信",马鞍山新闻
@@ -1916,6 +2008,8 @@ http://60.174.40.117:85/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://lichuan.tech/iptv/logo/1ce026a774dba0d13dc0cef453248fb7.png" group-title="卫视频道_安徽省池州市电信",黑龙江卫视
 http://60.174.40.117:85/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://lichuan.tech/iptv/logo/764e359087f0ff8e5b1800a3f0d13803.jpg" group-title="卫视频道_安徽省阜阳市联通",三沙卫视
+http://112.122.32.28:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://lichuan.tech/iptv/logo/764e359087f0ff8e5b1800a3f0d13803.jpg" group-title="卫视频道_安徽省阜阳市联通",三沙卫视
 http://112.122.32.141:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://lichuan.tech/iptv/logo/764e359087f0ff8e5b1800a3f0d13803.jpg" group-title="卫视频道_安徽省阜阳市联通",三沙卫视
 http://112.122.32.229:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -1927,8 +2021,6 @@ http://112.122.33.119:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.122.33.149:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://lichuan.tech/iptv/logo/764e359087f0ff8e5b1800a3f0d13803.jpg" group-title="卫视频道_安徽省阜阳市联通",三沙卫视
 http://112.122.33.152:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://lichuan.tech/iptv/logo/764e359087f0ff8e5b1800a3f0d13803.jpg" group-title="卫视频道_安徽省阜阳市联通",三沙卫视
-http://112.122.33.162:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://lichuan.tech/iptv/logo/764e359087f0ff8e5b1800a3f0d13803.jpg" group-title="卫视频道_安徽省阜阳市联通",三沙卫视
 http://112.123.208.163:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://lichuan.tech/iptv/logo/764e359087f0ff8e5b1800a3f0d13803.jpg" group-title="卫视频道_安徽省阜阳市联通",三沙卫视
@@ -1945,6 +2037,8 @@ http://112.123.210.49:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://lichuan.tech/iptv/logo/764e359087f0ff8e5b1800a3f0d13803.jpg" group-title="卫视频道_安徽省阜阳市联通",三沙卫视
 http://112.123.210.140:85/tsfile/live/1035_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://lichuan.tech/iptv/logo/0b54da973aaa9d57361846b14cd7da3e.png" group-title="卫视频道_安徽省阜阳市联通",东南卫视
+http://112.122.32.28:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://lichuan.tech/iptv/logo/0b54da973aaa9d57361846b14cd7da3e.png" group-title="卫视频道_安徽省阜阳市联通",东南卫视
 http://112.122.32.141:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://lichuan.tech/iptv/logo/0b54da973aaa9d57361846b14cd7da3e.png" group-title="卫视频道_安徽省阜阳市联通",东南卫视
@@ -1974,6 +2068,8 @@ http://112.123.210.115:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://lichuan.tech/iptv/logo/0b54da973aaa9d57361846b14cd7da3e.png" group-title="卫视频道_安徽省阜阳市联通",东南卫视
 http://112.123.210.140:85/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://lichuan.tech/iptv/logo/b0977d8b1d2a989a7177d9f6b6ff16e7.jpg" group-title="卫视频道_安徽省阜阳市联通",东方卫视
+http://112.122.32.28:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://lichuan.tech/iptv/logo/b0977d8b1d2a989a7177d9f6b6ff16e7.jpg" group-title="卫视频道_安徽省阜阳市联通",东方卫视
 http://112.122.32.141:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://lichuan.tech/iptv/logo/b0977d8b1d2a989a7177d9f6b6ff16e7.jpg" group-title="卫视频道_安徽省阜阳市联通",东方卫视
 http://112.122.32.229:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2001,6 +2097,8 @@ http://112.123.210.49:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://lichuan.tech/iptv/logo/b0977d8b1d2a989a7177d9f6b6ff16e7.jpg" group-title="卫视频道_安徽省阜阳市联通",东方卫视
 http://112.123.210.140:85/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c786da29f0f5cc5973444e3ad49413a6.jpg" group-title="卫视频道_安徽省阜阳市联通",云南卫视
+http://112.122.32.28:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c786da29f0f5cc5973444e3ad49413a6.jpg" group-title="卫视频道_安徽省阜阳市联通",云南卫视
 http://112.122.32.141:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c786da29f0f5cc5973444e3ad49413a6.jpg" group-title="卫视频道_安徽省阜阳市联通",云南卫视
@@ -2030,6 +2128,8 @@ http://112.123.210.115:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c786da29f0f5cc5973444e3ad49413a6.jpg" group-title="卫视频道_安徽省阜阳市联通",云南卫视
 http://112.123.210.140:85/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://lichuan.tech/iptv/logo/5ec2992011cb16a9ca85c84e41b05b8b.jpg" group-title="卫视频道_安徽省阜阳市联通",兵团卫视
+http://112.122.32.28:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://lichuan.tech/iptv/logo/5ec2992011cb16a9ca85c84e41b05b8b.jpg" group-title="卫视频道_安徽省阜阳市联通",兵团卫视
 http://112.122.32.141:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://lichuan.tech/iptv/logo/5ec2992011cb16a9ca85c84e41b05b8b.jpg" group-title="卫视频道_安徽省阜阳市联通",兵团卫视
 http://112.122.32.229:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2058,6 +2158,8 @@ http://112.123.210.115:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://lichuan.tech/iptv/logo/5ec2992011cb16a9ca85c84e41b05b8b.jpg" group-title="卫视频道_安徽省阜阳市联通",兵团卫视
 http://112.123.210.140:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://lichuan.tech/iptv/logo/03295de404257fa9653b89bf2d0e47ac.jpg" group-title="卫视频道_安徽省阜阳市联通",内蒙古卫视
+http://112.122.32.28:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://lichuan.tech/iptv/logo/03295de404257fa9653b89bf2d0e47ac.jpg" group-title="卫视频道_安徽省阜阳市联通",内蒙古卫视
 http://112.122.32.141:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://lichuan.tech/iptv/logo/03295de404257fa9653b89bf2d0e47ac.jpg" group-title="卫视频道_安徽省阜阳市联通",内蒙古卫视
 http://112.122.32.229:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2069,8 +2171,6 @@ http://112.122.33.119:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.122.33.149:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://lichuan.tech/iptv/logo/03295de404257fa9653b89bf2d0e47ac.jpg" group-title="卫视频道_安徽省阜阳市联通",内蒙古卫视
 http://112.122.33.152:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://lichuan.tech/iptv/logo/03295de404257fa9653b89bf2d0e47ac.jpg" group-title="卫视频道_安徽省阜阳市联通",内蒙古卫视
-http://112.122.33.162:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://lichuan.tech/iptv/logo/03295de404257fa9653b89bf2d0e47ac.jpg" group-title="卫视频道_安徽省阜阳市联通",内蒙古卫视
 http://112.123.208.163:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://lichuan.tech/iptv/logo/03295de404257fa9653b89bf2d0e47ac.jpg" group-title="卫视频道_安徽省阜阳市联通",内蒙古卫视
@@ -2087,6 +2187,8 @@ http://112.123.210.49:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://lichuan.tech/iptv/logo/03295de404257fa9653b89bf2d0e47ac.jpg" group-title="卫视频道_安徽省阜阳市联通",内蒙古卫视
 http://112.123.210.140:85/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="https://lichuan.tech/iptv/logo/5406f8e49c8db56f306ec656bbdc69e4.png" group-title="卫视频道_安徽省阜阳市联通",农林卫视
+http://112.122.32.28:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="https://lichuan.tech/iptv/logo/5406f8e49c8db56f306ec656bbdc69e4.png" group-title="卫视频道_安徽省阜阳市联通",农林卫视
 http://112.122.32.141:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="https://lichuan.tech/iptv/logo/5406f8e49c8db56f306ec656bbdc69e4.png" group-title="卫视频道_安徽省阜阳市联通",农林卫视
@@ -2116,6 +2218,8 @@ http://112.123.210.115:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="农林卫视" tvg-logo="https://lichuan.tech/iptv/logo/5406f8e49c8db56f306ec656bbdc69e4.png" group-title="卫视频道_安徽省阜阳市联通",农林卫视
 http://112.123.210.140:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://lichuan.tech/iptv/logo/db47125bc6c697e608358a9dfbf95f82.jpg" group-title="卫视频道_安徽省阜阳市联通",北京卫视
+http://112.122.32.28:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://lichuan.tech/iptv/logo/db47125bc6c697e608358a9dfbf95f82.jpg" group-title="卫视频道_安徽省阜阳市联通",北京卫视
 http://112.122.32.141:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://lichuan.tech/iptv/logo/db47125bc6c697e608358a9dfbf95f82.jpg" group-title="卫视频道_安徽省阜阳市联通",北京卫视
 http://112.122.32.229:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2143,6 +2247,8 @@ http://112.123.210.49:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://lichuan.tech/iptv/logo/db47125bc6c697e608358a9dfbf95f82.jpg" group-title="卫视频道_安徽省阜阳市联通",北京卫视
 http://112.123.210.140:85/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://lichuan.tech/iptv/logo/45392a8be644f5b8903838436870c75d.jpg" group-title="卫视频道_安徽省阜阳市联通",吉林卫视
+http://112.122.32.28:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://lichuan.tech/iptv/logo/45392a8be644f5b8903838436870c75d.jpg" group-title="卫视频道_安徽省阜阳市联通",吉林卫视
 http://112.122.32.141:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://lichuan.tech/iptv/logo/45392a8be644f5b8903838436870c75d.jpg" group-title="卫视频道_安徽省阜阳市联通",吉林卫视
@@ -2172,6 +2278,8 @@ http://112.123.210.115:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://lichuan.tech/iptv/logo/45392a8be644f5b8903838436870c75d.jpg" group-title="卫视频道_安徽省阜阳市联通",吉林卫视
 http://112.123.210.140:85/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://lichuan.tech/iptv/logo/b82fa4086c9a2c9442279efbb80cce31.jpg" group-title="卫视频道_安徽省阜阳市联通",四川卫视
+http://112.122.32.28:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://lichuan.tech/iptv/logo/b82fa4086c9a2c9442279efbb80cce31.jpg" group-title="卫视频道_安徽省阜阳市联通",四川卫视
 http://112.122.32.141:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://lichuan.tech/iptv/logo/b82fa4086c9a2c9442279efbb80cce31.jpg" group-title="卫视频道_安徽省阜阳市联通",四川卫视
 http://112.122.32.229:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2199,6 +2307,8 @@ http://112.123.210.49:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://lichuan.tech/iptv/logo/b82fa4086c9a2c9442279efbb80cce31.jpg" group-title="卫视频道_安徽省阜阳市联通",四川卫视
 http://112.123.210.140:85/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://lichuan.tech/iptv/logo/5927c7a6dd31f38686fafa073e2e13bc.jpg" group-title="卫视频道_安徽省阜阳市联通",天津卫视
+http://112.122.32.28:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://lichuan.tech/iptv/logo/5927c7a6dd31f38686fafa073e2e13bc.jpg" group-title="卫视频道_安徽省阜阳市联通",天津卫视
 http://112.122.32.141:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://lichuan.tech/iptv/logo/5927c7a6dd31f38686fafa073e2e13bc.jpg" group-title="卫视频道_安徽省阜阳市联通",天津卫视
@@ -2228,6 +2338,8 @@ http://112.123.210.115:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://lichuan.tech/iptv/logo/5927c7a6dd31f38686fafa073e2e13bc.jpg" group-title="卫视频道_安徽省阜阳市联通",天津卫视
 http://112.123.210.140:85/tsfile/live/1081_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://lichuan.tech/iptv/logo/a09ab19928a6b2bd616f7e2eba1056ee.jpg" group-title="卫视频道_安徽省阜阳市联通",宁夏卫视
+http://112.122.32.28:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://lichuan.tech/iptv/logo/a09ab19928a6b2bd616f7e2eba1056ee.jpg" group-title="卫视频道_安徽省阜阳市联通",宁夏卫视
 http://112.122.32.141:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://lichuan.tech/iptv/logo/a09ab19928a6b2bd616f7e2eba1056ee.jpg" group-title="卫视频道_安徽省阜阳市联通",宁夏卫视
 http://112.122.32.229:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2255,6 +2367,8 @@ http://112.123.210.49:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://lichuan.tech/iptv/logo/a09ab19928a6b2bd616f7e2eba1056ee.jpg" group-title="卫视频道_安徽省阜阳市联通",宁夏卫视
 http://112.123.210.140:85/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安多卫视" tvg-logo="https://lichuan.tech/iptv/logo/88a13a022ef26d29ce8168cb7baa7100.png" group-title="卫视频道_安徽省阜阳市联通",安多卫视
+http://112.122.32.28:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安多卫视" tvg-logo="https://lichuan.tech/iptv/logo/88a13a022ef26d29ce8168cb7baa7100.png" group-title="卫视频道_安徽省阜阳市联通",安多卫视
 http://112.122.32.141:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安多卫视" tvg-logo="https://lichuan.tech/iptv/logo/88a13a022ef26d29ce8168cb7baa7100.png" group-title="卫视频道_安徽省阜阳市联通",安多卫视
@@ -2284,6 +2398,8 @@ http://112.123.210.115:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安多卫视" tvg-logo="https://lichuan.tech/iptv/logo/88a13a022ef26d29ce8168cb7baa7100.png" group-title="卫视频道_安徽省阜阳市联通",安多卫视
 http://112.123.210.140:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://lichuan.tech/iptv/logo/5b0447ba48dbb6be1c286bab83f77e39.jpg" group-title="卫视频道_安徽省阜阳市联通",安徽卫视
+http://112.122.32.28:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://lichuan.tech/iptv/logo/5b0447ba48dbb6be1c286bab83f77e39.jpg" group-title="卫视频道_安徽省阜阳市联通",安徽卫视
 http://112.122.32.141:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://lichuan.tech/iptv/logo/5b0447ba48dbb6be1c286bab83f77e39.jpg" group-title="卫视频道_安徽省阜阳市联通",安徽卫视
 http://112.122.32.229:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2311,6 +2427,8 @@ http://112.123.210.49:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://lichuan.tech/iptv/logo/5b0447ba48dbb6be1c286bab83f77e39.jpg" group-title="卫视频道_安徽省阜阳市联通",安徽卫视
 http://112.123.210.140:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://lichuan.tech/iptv/logo/28502a1b6bf5fbe7c6da9241db596237.jpg" group-title="卫视频道_安徽省阜阳市联通",山东卫视
+http://112.122.32.28:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://lichuan.tech/iptv/logo/28502a1b6bf5fbe7c6da9241db596237.jpg" group-title="卫视频道_安徽省阜阳市联通",山东卫视
 http://112.122.32.141:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://lichuan.tech/iptv/logo/28502a1b6bf5fbe7c6da9241db596237.jpg" group-title="卫视频道_安徽省阜阳市联通",山东卫视
@@ -2340,6 +2458,8 @@ http://112.123.210.115:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://lichuan.tech/iptv/logo/28502a1b6bf5fbe7c6da9241db596237.jpg" group-title="卫视频道_安徽省阜阳市联通",山东卫视
 http://112.123.210.140:85/tsfile/live/1078_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://lichuan.tech/iptv/logo/c8bf387b1824053bdb0423ef806a2227.jpg" group-title="卫视频道_安徽省阜阳市联通",广东卫视
+http://112.122.32.28:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://lichuan.tech/iptv/logo/c8bf387b1824053bdb0423ef806a2227.jpg" group-title="卫视频道_安徽省阜阳市联通",广东卫视
 http://112.122.32.141:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://lichuan.tech/iptv/logo/c8bf387b1824053bdb0423ef806a2227.jpg" group-title="卫视频道_安徽省阜阳市联通",广东卫视
 http://112.122.32.229:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2368,6 +2488,8 @@ http://112.123.210.115:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://lichuan.tech/iptv/logo/c8bf387b1824053bdb0423ef806a2227.jpg" group-title="卫视频道_安徽省阜阳市联通",广东卫视
 http://112.123.210.140:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://lichuan.tech/iptv/logo/5cbb108dbf59f2ae1849ec8d1126d1a5.jpg" group-title="卫视频道_安徽省阜阳市联通",广西卫视
+http://112.122.32.28:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://lichuan.tech/iptv/logo/5cbb108dbf59f2ae1849ec8d1126d1a5.jpg" group-title="卫视频道_安徽省阜阳市联通",广西卫视
 http://112.122.32.141:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://lichuan.tech/iptv/logo/5cbb108dbf59f2ae1849ec8d1126d1a5.jpg" group-title="卫视频道_安徽省阜阳市联通",广西卫视
 http://112.122.32.229:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2388,6 +2510,8 @@ http://112.123.209.31:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://lichuan.tech/iptv/logo/5cbb108dbf59f2ae1849ec8d1126d1a5.jpg" group-title="卫视频道_安徽省阜阳市联通",广西卫视
 http://112.123.209.77:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://lichuan.tech/iptv/logo/5cbb108dbf59f2ae1849ec8d1126d1a5.jpg" group-title="卫视频道_安徽省阜阳市联通",广西卫视
+http://112.123.209.100:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://lichuan.tech/iptv/logo/5cbb108dbf59f2ae1849ec8d1126d1a5.jpg" group-title="卫视频道_安徽省阜阳市联通",广西卫视
 http://112.123.209.149:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://lichuan.tech/iptv/logo/5cbb108dbf59f2ae1849ec8d1126d1a5.jpg" group-title="卫视频道_安徽省阜阳市联通",广西卫视
 http://112.123.210.49:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2395,6 +2519,8 @@ http://112.123.210.49:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://lichuan.tech/iptv/logo/5cbb108dbf59f2ae1849ec8d1126d1a5.jpg" group-title="卫视频道_安徽省阜阳市联通",广西卫视
 http://112.123.210.140:85/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://lichuan.tech/iptv/logo/0d0eb74114ec9f0bfaa79d687cf7b6a7.png" group-title="卫视频道_安徽省阜阳市联通",康巴卫视
+http://112.122.32.28:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://lichuan.tech/iptv/logo/0d0eb74114ec9f0bfaa79d687cf7b6a7.png" group-title="卫视频道_安徽省阜阳市联通",康巴卫视
 http://112.122.32.141:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://lichuan.tech/iptv/logo/0d0eb74114ec9f0bfaa79d687cf7b6a7.png" group-title="卫视频道_安徽省阜阳市联通",康巴卫视
@@ -2424,6 +2550,8 @@ http://112.123.210.115:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://lichuan.tech/iptv/logo/0d0eb74114ec9f0bfaa79d687cf7b6a7.png" group-title="卫视频道_安徽省阜阳市联通",康巴卫视
 http://112.123.210.140:85/tsfile/live/0134_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://lichuan.tech/iptv/logo/322fa7b66243b8d0edef9d761a42f263.jpg" group-title="卫视频道_安徽省阜阳市联通",江苏卫视
+http://112.122.32.28:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://lichuan.tech/iptv/logo/322fa7b66243b8d0edef9d761a42f263.jpg" group-title="卫视频道_安徽省阜阳市联通",江苏卫视
 http://112.122.32.141:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://lichuan.tech/iptv/logo/322fa7b66243b8d0edef9d761a42f263.jpg" group-title="卫视频道_安徽省阜阳市联通",江苏卫视
 http://112.122.32.229:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2451,6 +2579,8 @@ http://112.123.210.49:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://lichuan.tech/iptv/logo/322fa7b66243b8d0edef9d761a42f263.jpg" group-title="卫视频道_安徽省阜阳市联通",江苏卫视
 http://112.123.210.140:85/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://lichuan.tech/iptv/logo/535765a19ab55a12bbf64a1e98ae97dd.jpg" group-title="卫视频道_安徽省阜阳市联通",江西卫视
+http://112.122.32.28:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://lichuan.tech/iptv/logo/535765a19ab55a12bbf64a1e98ae97dd.jpg" group-title="卫视频道_安徽省阜阳市联通",江西卫视
 http://112.122.32.141:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://lichuan.tech/iptv/logo/535765a19ab55a12bbf64a1e98ae97dd.jpg" group-title="卫视频道_安徽省阜阳市联通",江西卫视
@@ -2480,6 +2610,8 @@ http://112.123.210.115:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://lichuan.tech/iptv/logo/535765a19ab55a12bbf64a1e98ae97dd.jpg" group-title="卫视频道_安徽省阜阳市联通",江西卫视
 http://112.123.210.140:85/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://lichuan.tech/iptv/logo/2c854868563485135dd486801057dd6e.jpg" group-title="卫视频道_安徽省阜阳市联通",河南卫视
+http://112.122.32.28:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://lichuan.tech/iptv/logo/2c854868563485135dd486801057dd6e.jpg" group-title="卫视频道_安徽省阜阳市联通",河南卫视
 http://112.122.32.141:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://lichuan.tech/iptv/logo/2c854868563485135dd486801057dd6e.jpg" group-title="卫视频道_安徽省阜阳市联通",河南卫视
 http://112.122.32.229:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2507,6 +2639,8 @@ http://112.123.210.49:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://lichuan.tech/iptv/logo/2c854868563485135dd486801057dd6e.jpg" group-title="卫视频道_安徽省阜阳市联通",河南卫视
 http://112.123.210.140:85/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://lichuan.tech/iptv/logo/590e187a8799b1890175d25ec85ea352.jpg" group-title="卫视频道_安徽省阜阳市联通",浙江卫视
+http://112.122.32.28:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://lichuan.tech/iptv/logo/590e187a8799b1890175d25ec85ea352.jpg" group-title="卫视频道_安徽省阜阳市联通",浙江卫视
 http://112.122.32.141:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://lichuan.tech/iptv/logo/590e187a8799b1890175d25ec85ea352.jpg" group-title="卫视频道_安徽省阜阳市联通",浙江卫视
@@ -2536,6 +2670,8 @@ http://112.123.210.115:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://lichuan.tech/iptv/logo/590e187a8799b1890175d25ec85ea352.jpg" group-title="卫视频道_安徽省阜阳市联通",浙江卫视
 http://112.123.210.140:85/tsfile/live/1068_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c0fc93e34943ad854b923c031d24bd39.jpg" group-title="卫视频道_安徽省阜阳市联通",海南卫视
+http://112.122.32.28:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c0fc93e34943ad854b923c031d24bd39.jpg" group-title="卫视频道_安徽省阜阳市联通",海南卫视
 http://112.122.32.141:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c0fc93e34943ad854b923c031d24bd39.jpg" group-title="卫视频道_安徽省阜阳市联通",海南卫视
 http://112.122.32.229:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2564,9 +2700,9 @@ http://112.123.210.115:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c0fc93e34943ad854b923c031d24bd39.jpg" group-title="卫视频道_安徽省阜阳市联通",海南卫视
 http://112.123.210.140:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://lichuan.tech/iptv/logo/20831bb807a45638cfaf81df1122024d.jpg" group-title="卫视频道_安徽省阜阳市联通",深圳卫视
-http://112.122.32.141:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+http://112.122.32.28:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://lichuan.tech/iptv/logo/20831bb807a45638cfaf81df1122024d.jpg" group-title="卫视频道_安徽省阜阳市联通",深圳卫视
-http://112.122.32.151:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+http://112.122.32.141:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://lichuan.tech/iptv/logo/20831bb807a45638cfaf81df1122024d.jpg" group-title="卫视频道_安徽省阜阳市联通",深圳卫视
 http://112.122.32.229:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://lichuan.tech/iptv/logo/20831bb807a45638cfaf81df1122024d.jpg" group-title="卫视频道_安徽省阜阳市联通",深圳卫视
@@ -2593,6 +2729,8 @@ http://112.123.210.49:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://lichuan.tech/iptv/logo/20831bb807a45638cfaf81df1122024d.jpg" group-title="卫视频道_安徽省阜阳市联通",深圳卫视
 http://112.123.210.140:85/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://lichuan.tech/iptv/logo/55fc65ef82e92d0e1ccb2b3f200a7529.jpg" group-title="卫视频道_安徽省阜阳市联通",湖北卫视
+http://112.122.32.28:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://lichuan.tech/iptv/logo/55fc65ef82e92d0e1ccb2b3f200a7529.jpg" group-title="卫视频道_安徽省阜阳市联通",湖北卫视
 http://112.122.32.141:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://lichuan.tech/iptv/logo/55fc65ef82e92d0e1ccb2b3f200a7529.jpg" group-title="卫视频道_安徽省阜阳市联通",湖北卫视
@@ -2622,6 +2760,8 @@ http://112.123.210.115:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://lichuan.tech/iptv/logo/55fc65ef82e92d0e1ccb2b3f200a7529.jpg" group-title="卫视频道_安徽省阜阳市联通",湖北卫视
 http://112.123.210.140:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c39a7a374d888bce3912df71bcb0d580.png" group-title="卫视频道_安徽省阜阳市联通",湖南卫视
+http://112.122.32.28:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c39a7a374d888bce3912df71bcb0d580.png" group-title="卫视频道_安徽省阜阳市联通",湖南卫视
 http://112.122.32.141:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c39a7a374d888bce3912df71bcb0d580.png" group-title="卫视频道_安徽省阜阳市联通",湖南卫视
 http://112.122.32.229:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2649,6 +2789,8 @@ http://112.123.210.49:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c39a7a374d888bce3912df71bcb0d580.png" group-title="卫视频道_安徽省阜阳市联通",湖南卫视
 http://112.123.210.140:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://lichuan.tech/iptv/logo/5ace8ddc54a4151bbcf76e56c8aa582a.jpg" group-title="卫视频道_安徽省阜阳市联通",甘肃卫视
+http://112.122.32.28:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://lichuan.tech/iptv/logo/5ace8ddc54a4151bbcf76e56c8aa582a.jpg" group-title="卫视频道_安徽省阜阳市联通",甘肃卫视
 http://112.122.32.141:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://lichuan.tech/iptv/logo/5ace8ddc54a4151bbcf76e56c8aa582a.jpg" group-title="卫视频道_安徽省阜阳市联通",甘肃卫视
@@ -2678,6 +2820,8 @@ http://112.123.210.115:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://lichuan.tech/iptv/logo/5ace8ddc54a4151bbcf76e56c8aa582a.jpg" group-title="卫视频道_安徽省阜阳市联通",甘肃卫视
 http://112.123.210.140:85/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="蒙古语卫视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="卫视频道_安徽省阜阳市联通",蒙古语卫视
+http://112.122.32.28:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="蒙古语卫视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="卫视频道_安徽省阜阳市联通",蒙古语卫视
 http://112.122.32.141:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="蒙古语卫视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="卫视频道_安徽省阜阳市联通",蒙古语卫视
 http://112.122.32.229:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2689,8 +2833,6 @@ http://112.122.33.119:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.122.33.149:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="蒙古语卫视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="卫视频道_安徽省阜阳市联通",蒙古语卫视
 http://112.122.33.152:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="蒙古语卫视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="卫视频道_安徽省阜阳市联通",蒙古语卫视
-http://112.122.33.162:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="蒙古语卫视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="卫视频道_安徽省阜阳市联通",蒙古语卫视
 http://112.123.208.163:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="蒙古语卫视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="卫视频道_安徽省阜阳市联通",蒙古语卫视
@@ -2707,6 +2849,8 @@ http://112.123.210.49:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="蒙古语卫视" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="卫视频道_安徽省阜阳市联通",蒙古语卫视
 http://112.123.210.140:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://lichuan.tech/iptv/logo/feccf21eb7e50753355efdab2d54d9e8.jpg" group-title="卫视频道_安徽省阜阳市联通",西藏卫视
+http://112.122.32.28:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://lichuan.tech/iptv/logo/feccf21eb7e50753355efdab2d54d9e8.jpg" group-title="卫视频道_安徽省阜阳市联通",西藏卫视
 http://112.122.32.141:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://lichuan.tech/iptv/logo/feccf21eb7e50753355efdab2d54d9e8.jpg" group-title="卫视频道_安徽省阜阳市联通",西藏卫视
@@ -2736,6 +2880,8 @@ http://112.123.210.115:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://lichuan.tech/iptv/logo/feccf21eb7e50753355efdab2d54d9e8.jpg" group-title="卫视频道_安徽省阜阳市联通",西藏卫视
 http://112.123.210.140:85/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://lichuan.tech/iptv/logo/5a7d01661b5d9c64293860531374312b.jpg" group-title="卫视频道_安徽省阜阳市联通",贵州卫视
+http://112.122.32.28:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://lichuan.tech/iptv/logo/5a7d01661b5d9c64293860531374312b.jpg" group-title="卫视频道_安徽省阜阳市联通",贵州卫视
 http://112.122.32.141:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://lichuan.tech/iptv/logo/5a7d01661b5d9c64293860531374312b.jpg" group-title="卫视频道_安徽省阜阳市联通",贵州卫视
 http://112.122.32.229:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2763,6 +2909,8 @@ http://112.123.210.49:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://lichuan.tech/iptv/logo/5a7d01661b5d9c64293860531374312b.jpg" group-title="卫视频道_安徽省阜阳市联通",贵州卫视
 http://112.123.210.140:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://lichuan.tech/iptv/logo/9291c40ec1cec1281638720c74c7245f.jpg" group-title="卫视频道_安徽省阜阳市联通",辽宁卫视
+http://112.122.32.28:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://lichuan.tech/iptv/logo/9291c40ec1cec1281638720c74c7245f.jpg" group-title="卫视频道_安徽省阜阳市联通",辽宁卫视
 http://112.122.32.141:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://lichuan.tech/iptv/logo/9291c40ec1cec1281638720c74c7245f.jpg" group-title="卫视频道_安徽省阜阳市联通",辽宁卫视
@@ -2792,6 +2940,8 @@ http://112.123.210.115:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://lichuan.tech/iptv/logo/9291c40ec1cec1281638720c74c7245f.jpg" group-title="卫视频道_安徽省阜阳市联通",辽宁卫视
 http://112.123.210.140:85/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://lichuan.tech/iptv/logo/5731a167d79c432575056c4963dc8049.jpg" group-title="卫视频道_安徽省阜阳市联通",重庆卫视
+http://112.122.32.28:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://lichuan.tech/iptv/logo/5731a167d79c432575056c4963dc8049.jpg" group-title="卫视频道_安徽省阜阳市联通",重庆卫视
 http://112.122.32.141:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://lichuan.tech/iptv/logo/5731a167d79c432575056c4963dc8049.jpg" group-title="卫视频道_安徽省阜阳市联通",重庆卫视
 http://112.122.32.229:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -2819,6 +2969,8 @@ http://112.123.210.49:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://lichuan.tech/iptv/logo/5731a167d79c432575056c4963dc8049.jpg" group-title="卫视频道_安徽省阜阳市联通",重庆卫视
 http://112.123.210.140:85/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://lichuan.tech/iptv/logo/eb7330e363ceec8c6895eacc44a1a804.jpg" group-title="卫视频道_安徽省阜阳市联通",陕西卫视
+http://112.122.32.28:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://lichuan.tech/iptv/logo/eb7330e363ceec8c6895eacc44a1a804.jpg" group-title="卫视频道_安徽省阜阳市联通",陕西卫视
 http://112.122.32.141:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://lichuan.tech/iptv/logo/eb7330e363ceec8c6895eacc44a1a804.jpg" group-title="卫视频道_安徽省阜阳市联通",陕西卫视
@@ -2848,6 +3000,8 @@ http://112.123.210.115:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://lichuan.tech/iptv/logo/eb7330e363ceec8c6895eacc44a1a804.jpg" group-title="卫视频道_安徽省阜阳市联通",陕西卫视
 http://112.123.210.140:85/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://lichuan.tech/iptv/logo/4ec095f1d2564f82341275fff64edb5a.jpg" group-title="卫视频道_安徽省阜阳市联通",青海卫视
+http://112.122.32.28:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://lichuan.tech/iptv/logo/4ec095f1d2564f82341275fff64edb5a.jpg" group-title="卫视频道_安徽省阜阳市联通",青海卫视
 http://112.122.32.141:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://lichuan.tech/iptv/logo/4ec095f1d2564f82341275fff64edb5a.jpg" group-title="卫视频道_安徽省阜阳市联通",青海卫视
 http://112.122.32.229:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2875,6 +3029,8 @@ http://112.123.210.49:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://lichuan.tech/iptv/logo/4ec095f1d2564f82341275fff64edb5a.jpg" group-title="卫视频道_安徽省阜阳市联通",青海卫视
 http://112.123.210.140:85/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://lichuan.tech/iptv/logo/1ce026a774dba0d13dc0cef453248fb7.png" group-title="卫视频道_安徽省阜阳市联通",黑龙江卫视
+http://112.122.32.28:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://lichuan.tech/iptv/logo/1ce026a774dba0d13dc0cef453248fb7.png" group-title="卫视频道_安徽省阜阳市联通",黑龙江卫视
 http://112.122.32.141:85/tsfile/live/1084_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://lichuan.tech/iptv/logo/1ce026a774dba0d13dc0cef453248fb7.png" group-title="卫视频道_安徽省阜阳市联通",黑龙江卫视
@@ -2947,8 +3103,6 @@ http://223.241.247.214:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid
 http://223.241.247.214:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://lichuan.tech/iptv/logo/9291c40ec1cec1281638720c74c7245f.jpg" group-title="卫视频道_安徽省马鞍山市电信",辽宁卫视
 http://223.241.247.214:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://lichuan.tech/iptv/logo/5731a167d79c432575056c4963dc8049.jpg" group-title="卫视频道_安徽省马鞍山市电信",重庆卫视
-http://223.241.247.214:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://lichuan.tech/iptv/logo/eb7330e363ceec8c6895eacc44a1a804.jpg" group-title="卫视频道_安徽省马鞍山市电信",陕西卫视
 http://223.241.247.214:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://lichuan.tech/iptv/logo/1ce026a774dba0d13dc0cef453248fb7.png" group-title="卫视频道_安徽省马鞍山市电信",黑龙江卫视
@@ -3128,6 +3282,8 @@ http://113.57.111.4:1111/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://lichuan.tech/iptv/logo/5731a167d79c432575056c4963dc8049.jpg" group-title="卫视频道_湖北省武汉市联通",重庆卫视
 http://113.57.111.4:1111/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1" tvg-logo="https://lichuan.tech/iptv/logo/ffa067dc1f3d5dc397e821c9d7005b7f.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育1
+http://112.122.32.28:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="中国教育1" tvg-logo="https://lichuan.tech/iptv/logo/ffa067dc1f3d5dc397e821c9d7005b7f.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育1
 http://112.122.32.141:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1" tvg-logo="https://lichuan.tech/iptv/logo/ffa067dc1f3d5dc397e821c9d7005b7f.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育1
 http://112.122.32.229:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -3155,6 +3311,8 @@ http://112.123.210.49:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 http://112.123.210.115:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1" tvg-logo="https://lichuan.tech/iptv/logo/ffa067dc1f3d5dc397e821c9d7005b7f.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育1
 http://112.123.210.140:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="中国教育2" tvg-logo="https://lichuan.tech/iptv/logo/b0a901eb787416007cf5cbb79ce009ab.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育2
+http://112.122.32.28:85/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国教育2" tvg-logo="https://lichuan.tech/iptv/logo/b0a901eb787416007cf5cbb79ce009ab.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育2
 http://112.122.32.141:85/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国教育2" tvg-logo="https://lichuan.tech/iptv/logo/b0a901eb787416007cf5cbb79ce009ab.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育2
@@ -3184,6 +3342,8 @@ http://112.123.210.115:85/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国教育2" tvg-logo="https://lichuan.tech/iptv/logo/b0a901eb787416007cf5cbb79ce009ab.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育2
 http://112.123.210.140:85/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4" tvg-logo="https://lichuan.tech/iptv/logo/1d56a6be10c70e74b330641fce34ed60.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育4
+http://112.122.32.28:85/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="中国教育4" tvg-logo="https://lichuan.tech/iptv/logo/1d56a6be10c70e74b330641fce34ed60.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育4
 http://112.122.32.141:85/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4" tvg-logo="https://lichuan.tech/iptv/logo/1d56a6be10c70e74b330641fce34ed60.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育4
 http://112.122.32.229:85/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -3212,6 +3372,8 @@ http://112.123.210.115:85/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国教育4" tvg-logo="https://lichuan.tech/iptv/logo/1d56a6be10c70e74b330641fce34ed60.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育4
 http://112.123.210.140:85/tsfile/live/1135_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="教育频道_安徽省阜阳市联通",山东教育
+http://112.122.32.28:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="教育频道_安徽省阜阳市联通",山东教育
 http://112.122.32.141:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="教育频道_安徽省阜阳市联通",山东教育
 http://112.122.32.229:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3239,6 +3401,8 @@ http://112.123.210.49:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.210.115:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="教育频道_安徽省阜阳市联通",山东教育
 http://112.123.210.140:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="阜阳教育" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="教育频道_安徽省阜阳市联通",阜阳教育
+http://112.122.32.28:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳教育" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="教育频道_安徽省阜阳市联通",阜阳教育
 http://112.122.32.141:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="阜阳教育" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="教育频道_安徽省阜阳市联通",阜阳教育
