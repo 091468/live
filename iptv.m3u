@@ -67,6 +67,8 @@ http://183.223.157.33:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.89.240.144:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://lichuan.tech/iptv/logo/7f0f7630ebd9f29f34452e64c037ca7c.png" group-title="CCTV_四川省成都市电信",CCTV2
 http://218.89.240.144:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://lichuan.tech/iptv/logo/eef05976d14b742fc22fe17affad1f60.png" group-title="CCTV_四川省成都市电信",CCTV3
+http://218.89.240.144:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://lichuan.tech/iptv/logo/c05a594b68692bbb5d09e966469540c8.png" group-title="CCTV_四川省成都市电信",CCTV4
 http://218.89.240.144:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://lichuan.tech/iptv/logo/dcef7eaddaa95231a534664b5294ef17.png" group-title="CCTV_四川省成都市电信",CCTV5
@@ -707,38 +709,6 @@ rtsp://111.48.34.138:1554/170000004112/HBGD9935055570721873923307127370?rrsip=11
 rtsp://111.48.34.138:1554/170000004112/HBGD8884193178146078726126298415?rrsip=111.48.246.74:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=wB7DQXa9cpzLf4qdxbGqlq5RtbsI%2BVeYQyEmn8H0ZFsDgJBwxAHeWMgoy9B%2F%2FwJRiBZ9RHOVLvJTVaQbOOiXlH72ofVleEA4c%2FO8iPQ81Jo%3D&version=1.0&accountinfo=%2C2632423%2C223.104.123.243%2C20250502102615%2CHBGD8884193178146078726126298415%2C2632423%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C454163557%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-id="" tvg-name="﻿CCTV1" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="CCTV_湖北省武汉市移动",﻿CCTV1
 rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000131?rrsip=111.48.246.74:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=wB7DQXa9cpzLf4qdxbGqloX3fMThpYSC3svCtJtBA4vy88UL5FMgCtyx%2Bl9WpuMpoK16vGTawBoHCiduRZKFF1Dmudih6WqGJ%2F8ToHkusvI%3D&version=1.0&accountinfo=%2C2632423%2C223.104.123.243%2C20250502102615%2C00000001000000050000000000000152%2C2632423%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000252976_0%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://lichuan.tech/iptv/logo/3d8e093d50b1a060c11758de78cca54d.png" group-title="CCTV_湖北省武汉市联通",CCTV1
-http://113.57.111.4:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://lichuan.tech/iptv/logo/7f0f7630ebd9f29f34452e64c037ca7c.png" group-title="CCTV_湖北省武汉市联通",CCTV2
-http://113.57.111.4:1111/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://lichuan.tech/iptv/logo/eef05976d14b742fc22fe17affad1f60.png" group-title="CCTV_湖北省武汉市联通",CCTV3
-http://113.57.111.4:1111/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://lichuan.tech/iptv/logo/c05a594b68692bbb5d09e966469540c8.png" group-title="CCTV_湖北省武汉市联通",CCTV4
-http://113.57.111.4:1111/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://lichuan.tech/iptv/logo/dcef7eaddaa95231a534664b5294ef17.png" group-title="CCTV_湖北省武汉市联通",CCTV5
-http://113.57.111.4:1111/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://lichuan.tech/iptv/logo/b642fd0c10e536bb69482f4a6787e0ea.png" group-title="CCTV_湖北省武汉市联通",CCTV6
-http://113.57.111.4:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://lichuan.tech/iptv/logo/42206af12ae323cef243156bfe9bce04.png" group-title="CCTV_湖北省武汉市联通",CCTV7
-http://113.57.111.4:1111/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://lichuan.tech/iptv/logo/9ff989f42195a9f0fc85cae6b74d28df.png" group-title="CCTV_湖北省武汉市联通",CCTV8
-http://113.57.111.4:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://lichuan.tech/iptv/logo/bf747874f5d0b0612a7537dc35f4a02d.png" group-title="CCTV_湖北省武汉市联通",CCTV9
-http://113.57.111.4:1111/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://lichuan.tech/iptv/logo/2538c1b412bd1e0c68ff474bf68ecc67.png" group-title="CCTV_湖北省武汉市联通",CCTV10
-http://113.57.111.4:1111/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://lichuan.tech/iptv/logo/19133fadde9bf7161e568342d2482644.png" group-title="CCTV_湖北省武汉市联通",CCTV11
-http://113.57.111.4:1111/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://lichuan.tech/iptv/logo/859d4106cefb58b5f5a9feaf392b207b.png" group-title="CCTV_湖北省武汉市联通",CCTV12
-http://113.57.111.4:1111/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://lichuan.tech/iptv/logo/0846adebefbf618f3d7196645a6f83b0.png" group-title="CCTV_湖北省武汉市联通",CCTV13
-http://113.57.111.4:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://lichuan.tech/iptv/logo/afd5aeeff09615322773d2539c326b1b.png" group-title="CCTV_湖北省武汉市联通",CCTV14
-http://113.57.111.4:1111/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://lichuan.tech/iptv/logo/2f1e65b31fdecc85032f08d23eb0cecc.png" group-title="CCTV_湖北省武汉市联通",CCTV15
-http://113.57.111.4:1111/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://lichuan.tech/iptv/logo/7e30e8167039127910385b65b8b56f85.png" group-title="CCTV_湖北省武汉市联通",CCTV17
-http://113.57.111.4:1111/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://lichuan.tech/iptv/logo/0f309f23d0eba44a192873cd8ed9af93.png" group-title="中国国际电视台_四川省南充市移动",CGTN
 http://183.223.157.33:85/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://lichuan.tech/iptv/logo/0f309f23d0eba44a192873cd8ed9af93.png" group-title="中国国际电视台_江苏省南通市电信",CGTN
@@ -769,8 +739,6 @@ http://183.223.157.33:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="品牌宣传" tvg-logo="https://lichuan.tech/iptv/logo/iptv.png" group-title="其他频道_四川省成都市电信",品牌宣传
 http://218.89.240.144:59901/iptv/live/12.mp4?key=txiptv
-#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://lichuan.tech/iptv/logo/b309529acbfe742fe0ed40e3187811dc.png" group-title="其他频道_四川省成都市电信",嘉佳卡通
-http://218.89.240.144:59901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="四川文化旅游" tvg-logo="https://lichuan.tech/iptv/logo/da8266c79fd9fd2aac6c7e6681960f2d.png" group-title="其他频道_四川省成都市电信",四川文化旅游
 http://218.89.240.144:59901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="四川新闻" tvg-logo="https://lichuan.tech/iptv/logo/eb4e4515bc3b9fbc060b0077bb9362c0.png" group-title="其他频道_四川省成都市电信",四川新闻
@@ -2746,8 +2714,6 @@ http://112.123.210.49:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://lichuan.tech/iptv/logo/5a7d01661b5d9c64293860531374312b.jpg" group-title="卫视频道_安徽省阜阳市联通",贵州卫视
 http://112.123.210.108:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://lichuan.tech/iptv/logo/5a7d01661b5d9c64293860531374312b.jpg" group-title="卫视频道_安徽省阜阳市联通",贵州卫视
-http://112.123.210.115:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://lichuan.tech/iptv/logo/5a7d01661b5d9c64293860531374312b.jpg" group-title="卫视频道_安徽省阜阳市联通",贵州卫视
 http://112.123.210.140:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://lichuan.tech/iptv/logo/5a7d01661b5d9c64293860531374312b.jpg" group-title="卫视频道_安徽省阜阳市联通",贵州卫视
 http://112.123.210.252:85/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -3079,14 +3045,6 @@ rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000068?rrsip=11
 rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000074?rrsip=111.48.246.74:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=wB7DQXa9cpzLf4qdxbGqloX3fMThpYSC3svCtJtBA4tO8FZQjoS6iJ92KdiW1lDE1GHE%2BE8U%2FuBGI5fauf8ubaZ6KiGvnbOsmXmrBUlvDQc%3D&version=1.0&accountinfo=%2C2632423%2C223.104.123.243%2C20250502102615%2C00000001000000050000000000000096%2C2632423%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000252977_0%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://lichuan.tech/iptv/logo/1ce026a774dba0d13dc0cef453248fb7.png" group-title="卫视频道_湖北省武汉市移动",黑龙江卫视
 rtsp://111.48.34.138:1554/170000004112/00000001000000060000000000000175?rrsip=111.48.246.74:1554&zoneoffset=480&icpid=112&tenantId=8601&AuthInfo=wB7DQXa9cpzLf4qdxbGqloX3fMThpYSC3svCtJtBA4vy88UL5FMgCtyx%2Bl9WpuMpzJF6mNQGdUGhPPESvJgWX3uEIBXBqmxmUAQax%2B24bU0%3D&version=1.0&accountinfo=%2C2632423%2C223.104.123.243%2C20250502102615%2C00000001000000050000000000000196%2C2632423%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000000246416_0%2CEND&GuardEncType=2
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://lichuan.tech/iptv/logo/b0977d8b1d2a989a7177d9f6b6ff16e7.jpg" group-title="卫视频道_湖北省武汉市联通",东方卫视
-http://113.57.111.4:1111/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://lichuan.tech/iptv/logo/db47125bc6c697e608358a9dfbf95f82.jpg" group-title="卫视频道_湖北省武汉市联通",北京卫视
-http://113.57.111.4:1111/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://lichuan.tech/iptv/logo/55fc65ef82e92d0e1ccb2b3f200a7529.jpg" group-title="卫视频道_湖北省武汉市联通",湖北卫视
-http://113.57.111.4:1111/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://lichuan.tech/iptv/logo/c39a7a374d888bce3912df71bcb0d580.png" group-title="卫视频道_湖北省武汉市联通",湖南卫视
-http://113.57.111.4:1111/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1" tvg-logo="https://lichuan.tech/iptv/logo/ffa067dc1f3d5dc397e821c9d7005b7f.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育1
 http://112.122.32.28:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 tvg-id="" tvg-name="中国教育1" tvg-logo="https://lichuan.tech/iptv/logo/ffa067dc1f3d5dc397e821c9d7005b7f.jpg" group-title="教育频道_安徽省阜阳市联通",中国教育1
